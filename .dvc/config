@@ -1,0 +1,4 @@
+[core]
+    remote = datadir
+['remote "datadir"']
+    url = gdrive://14lp_qXxcK3s008VPI6o3BCbyEtulMoey
