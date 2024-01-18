@@ -129,7 +129,10 @@ dmypy.json
 .pyre/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /dataHousing.csv
 commands.log
+=======
+>>>>>>> parent of 77d6346 (data added locally)
 =======
 >>>>>>> parent of 77d6346 (data added locally)
